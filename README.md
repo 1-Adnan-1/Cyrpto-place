@@ -28,7 +28,8 @@ Cryptoplace, kullanıcıların kripto para piyasasını takip etmelerine olanak 
 - **React Toastify**: Bildirimler ve toast mesajları için.
 - **Uiverse**: Projeye entegre edilen loader.
 
+# GİF(2)
+
 ![Home,detail,search](/public/home.gif)
 
 ![other](/public/other.gif)
-# Cyrpto-place
